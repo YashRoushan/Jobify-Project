@@ -17,7 +17,9 @@ const Landing = () => {
                         job <span>tracking </span>App
                     </h1>
                     <p>
-                        I'm baby letterpress coloring book hell of, four loko shoreditch you probably haven't heard of them tattooed truffaut dreamcatcher kinfolk pok pok art party. Umami pork belly you probably haven't heard of them roof party cloud bread vape, post-ironic etsy green juice kombucha leggings scenester plaid. Yuccie roof party ethical praxis kitsch PBR&B.
+                        Take control of your career with our job tracking app — organize applications, track progress,
+                        and stay motivated every step of the way. Whether you're job hunting or leveling up, this
+                        platform empowers you to stay focused and land your dream role.
                     </p>
                     <Link to='/register' className="btn register-link">
                         Register
